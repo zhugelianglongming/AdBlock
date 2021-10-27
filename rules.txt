@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: zhugelianglongming Filter List
+! Last modified: 27 Oct 2021 11:22 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/zhugelianglongming/AdBlock
+! Licence: https://github.com/zhugelianglongming/AdBlock/blob/main/LICENSE
+! Contribute: https://github.com/zhugelianglongming/AdBlock/issues
+! Subscribe: https://raw.githubusercontent.com/zhugelianglongming/AdBlock/main/rules.txt
+
+! CSDN
+csdn.net##DIV.csdn-side-toolbar
