@@ -9,3 +9,37 @@
 
 ! CSDN
 csdn.net##DIV.csdn-side-toolbar
+csdn.net##DIV.toolbar-advert
+csdn.net##DIV#asideNewNps
+csdn.net##DIV#csdn-redpack
+csdn.net##DIV.csdn-reapck-select
+csdn.net##DIV#overTheScreen
+csdn.net##DIV[id="asideArchive"][class="aside-box"]
+
+! 欧泊颗
+www.oubk.com##DIV[class="container_100 mt10"]
+www.oubk.com##TABLE.pztbinfo
+www.oubk.com##IMG[src="https://img14.360buyimg.com/n1/jfs/t4567/65/1695518977/463513/f2ec8ecf/58e4959aN222a346a.jpg"]
+www.oubk.com##P
+www.oubk.com##DIV[class="notice"]
+www.oubk.com##IMG[src="/static/images/show/alipay_340.jpg"]
+www.oubk.com##IMG[src="/static/images/show/alipay_340_2.jpg"]
+
+! 简书
+www.jianshu.com##DIV[class="_27yofX"]
+www.jianshu.com##DIV[class="_13lIbp"]
+www.jianshu.com##DIV.cuOxAY
+
+! 知乎
+www.zhihu.com##DIV[class="css-11h6utu"]
+www.zhihu.com##DIV.css-5tmz26
+
+! 个人图书馆
+www.360doc.com##DIV[class="floatqrcode"]
+www.360doc.com##DIV#divyoulikeadtitle
+www.360doc.com##UL.ul-similar
+www.360doc.com##recommendArt
+
+! player
+##DIV.stui-player__detail.detail>P
+##DIV.stui-player.col-pd>p
