@@ -20,7 +20,12 @@ csdn.net##DIV#asideNewNps
 csdn.net##DIV#csdn-redpack
 csdn.net##DIV.csdn-reapck-select
 csdn.net##DIV#overTheScreen
-csdn.net##DIV[id="asideArchive"][class="aside-box"]
+csdn.net##DIV.recommend-item-box.type_download.clearfix
+csdn.net##DIV.recommend-box.insert-baidu-box
+csdn.net##DIV#asideHotArticle
+csdn.net##DIV#asideNewComments
+csdn.net##DIV[class="template-box"]
+csdn.net##DIV[id="copyright-box"]
 
 ! 欧泊颗
 www.oubk.com##DIV[class="container_100 mt10"]
