@@ -7,6 +7,12 @@
 ! Contribute: https://github.com/zhugelianglongming/AdBlock/issues
 ! Subscribe: https://raw.githubusercontent.com/zhugelianglongming/AdBlock/main/rules.txt
 
+! 博客园
+www.cnblogs.com##DIV#under_post_card1
+www.cnblogs.com##DIV#under_post_card2
+www.cnblogs.com##DIV#blog_post_info
+www.cnblogs.com##DIV#comment_form_container
+
 ! CSDN
 csdn.net##DIV.csdn-side-toolbar
 csdn.net##DIV.toolbar-advert
