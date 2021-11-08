@@ -7,6 +7,9 @@
 ! Contribute: https://github.com/zhugelianglongming/AdBlock/issues
 ! Subscribe: https://raw.githubusercontent.com/zhugelianglongming/AdBlock/main/rules.txt
 
+! 腾讯视频
+v.qq.com##TXPDIV.txp_ad
+
 ! 博客园
 www.cnblogs.com##DIV#under_post_card1
 www.cnblogs.com##DIV#under_post_card2
@@ -31,10 +34,14 @@ csdn.net##DIV[id="copyright-box"]
 www.oubk.com##DIV[class="container_100 mt10"]
 www.oubk.com##TABLE.pztbinfo
 www.oubk.com##IMG[src="https://img14.360buyimg.com/n1/jfs/t4567/65/1695518977/463513/f2ec8ecf/58e4959aN222a346a.jpg"]
-www.oubk.com##P
 www.oubk.com##DIV[class="notice"]
 www.oubk.com##IMG[src="/static/images/show/alipay_340.jpg"]
 www.oubk.com##IMG[src="/static/images/show/alipay_340_2.jpg"]
+www.oubk.com##DIV.grid_31
+www.oubk.com##DIV.l_gg
+www.oubk.com##DIV.index_cen
+www.oubk.com##DIV.gx_hot_hj
+www.oubk.com##DIV.sky_link
 
 ! 简书
 www.jianshu.com##DIV[class="_27yofX"]
