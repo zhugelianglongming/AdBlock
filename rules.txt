@@ -47,6 +47,12 @@ oubk.com##DIV.l_gg
 oubk.com##DIV.index_cen
 oubk.com##DIV.gx_hot_hj
 oubk.com##DIV.sky_link
+oubk.com##DIV.footer
+oubk.com##A[href="/app/"]
+oubk.com##A[href="/game/"]
+oubk.com##A[href="/jieji/"]
+oubk.com##A[href="/d/"]
+oubk.com##A[href="/topic/"]
 
 ! 简书
 www.jianshu.com##DIV[class="_27yofX"]
