@@ -37,6 +37,9 @@ csdn.net##DIV#asideNewComments
 csdn.net##DIV[class="template-box"]
 csdn.net##DIV[id="copyright-box"]
 
+! ITeye
+www.iteye.com##DIV.csdn-side-toolbar
+
 ! 欧泊颗
 oubk.com##TABLE.pztbinfo
 oubk.com##IMG[src="https://img14.360buyimg.com/n1/jfs/t4567/65/1695518977/463513/f2ec8ecf/58e4959aN222a346a.jpg"]
@@ -72,3 +75,4 @@ www.360doc.com##recommendArt
 ! player
 ##DIV.stui-player__detail.detail>P
 ##DIV.stui-player.col-pd>p
+##DIV#hengfu_pc_vod_shang
