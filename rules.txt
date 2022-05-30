@@ -45,18 +45,26 @@ www.iteye.com##DIV.csdn-side-toolbar
 oubk.com##TABLE.pztbinfo
 oubk.com##IMG[src="https://img14.360buyimg.com/n1/jfs/t4567/65/1695518977/463513/f2ec8ecf/58e4959aN222a346a.jpg"]
 oubk.com##DIV[class="notice"]
-oubk.com##IMG[src="/static/images/show/alipay_340.jpg"]
 oubk.com##IMG[src="/static/images/show/alipay_340_2.jpg"]
 oubk.com##DIV.l_gg
 oubk.com##DIV.index_cen
 oubk.com##DIV.gx_hot_hj
 oubk.com##DIV.sky_link
 oubk.com##DIV.footer
-oubk.com##A[href="/app/"]
+!! PK准备页 右侧 支付宝扫码
+www.oubk.com#?#DIV.box_bt2.mt10:-abp-has(> div > img[src="/static/images/show/alipay_340.jpg"])
+!! PK页 右侧 广告
+www.oubk.com#?#DIV.box_bt2.mt10:-abp-has(> div > ins.adsbygoogle)
+!! 无用标签页
 oubk.com##A[href="/game/"]
-oubk.com##A[href="/jieji/"]
-oubk.com##A[href="/d/"]
-oubk.com##A[href="/topic/"]
+oubk.com##A[href="/my"]
+!! 开挂用户:
+!!! 常国林
+www.oubk.com##TR#u_168890
+www.oubk.com#?#UL:-abp-has(> li > img#pic_168890)
+!!! oubk.com
+www.oubk.com##TR#u_185778
+
 
 ! 简书
 www.jianshu.com##DIV[class="_27yofX"]
