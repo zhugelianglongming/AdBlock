@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
 ! Title: zhugelianglongming Filter List
-! Last modified: 27 Oct 2021 11:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/zhugelianglongming/AdBlock
 ! Licence: https://github.com/zhugelianglongming/AdBlock/blob/main/LICENSE
@@ -38,8 +37,23 @@ csdn.net##DIV#asideNewComments
 csdn.net##DIV[class="template-box"]
 csdn.net##DIV[id="copyright-box"]
 
+! 稀土掘金
+juejin.cn##DIV[class="extension"]
+
 ! ITeye
 www.iteye.com##DIV.csdn-side-toolbar
+
+! IT 学院
+article.itxueyuan.com##IMG[id="lgvip"][class="img-responsive thumb"]
+
+! copyfuture
+copyfuture.com##IMG[src="/images/zhifubao.jpg"]
+
+! 系统技术非业余研究
+blog.yufeng.info##DIV[id="paypal_donations-3"][class="widget widget_paypal_donations"]
+
+! 三思数独
+www.12634.com##IMG[src="/static/img/zfb.jpeg"]
 
 ! 欧泊颗
 oubk.com##TABLE.pztbinfo
@@ -65,7 +79,6 @@ www.oubk.com#?#UL:-abp-has(> li > img#pic_168890)
 !!! oubk.com
 www.oubk.com##TR#u_185778
 
-
 ! 简书
 www.jianshu.com##DIV[class="_27yofX"]
 www.jianshu.com##DIV[class="_13lIbp"]
@@ -74,6 +87,9 @@ www.jianshu.com##DIV.cuOxAY
 ! 知乎
 www.zhihu.com##DIV[class="css-11h6utu"]
 www.zhihu.com##DIV.css-5tmz26
+
+! 360 问答
+wenda.so.com##DIV[id="detail-leftside-rec"][class="js-detail-left"]
 
 ! 个人图书馆
 www.360doc.com##DIV[class="floatqrcode"]
