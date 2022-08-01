@@ -82,7 +82,8 @@ www.oubk.com##TR#u_185778
 ! 简书
 www.jianshu.com##DIV[class="_27yofX"]
 www.jianshu.com##DIV[class="_13lIbp"]
-www.jianshu.com##DIV.cuOxAY
+!! 右侧栏：热门故事
+www.jianshu.com#?#section._3Z3nHf:-abp-has(> H3[class="_1Prj5h QxT4hD"])
 
 ! 知乎
 www.zhihu.com##DIV[class="css-11h6utu"]
