@@ -17,6 +17,8 @@ www.imooc.com##IMG[src="//img.mukewang.com/617b90aa0981e12e51200144.jpg"]
 qq.com##TXPDIV.txp_ad
 qq.com##TXPDIV[data-role="hd-ad-adapter-interactivelayer"]
 qq.com##A[dt-eid="ad_poster_sml"]
+!! 视频暂停广告
+qq.com##TXPDIV[class="txp_zt_content txp_ad_active_normal"]
 
 ! 博客园
 www.cnblogs.com##DIV#under_post_card1
