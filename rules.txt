@@ -18,7 +18,7 @@ qq.com##TXPDIV.txp_ad
 qq.com##TXPDIV[data-role="hd-ad-adapter-interactivelayer"]
 qq.com##A[dt-eid="ad_poster_sml"]
 !! 视频暂停广告
-qq.com##TXPDIV[class="txp_zt_content txp_ad_active_normal"]
+qq.com##TXPDIV.txp_zt_content
 
 ! 博客园
 www.cnblogs.com##DIV#under_post_card1
