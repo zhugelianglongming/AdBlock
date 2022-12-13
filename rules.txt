@@ -21,6 +21,8 @@ qq.com##A[dt-eid="ad_poster_sml"]
 qq.com##TXPDIV.txp_zt_content
 !! 视频卡片广告
 qq.com##DIV[class="card-wrap"][dt-eid="poster"][dt-imp-ignore="true"]
+!! 播放页游戏推荐广告
+qq.com##DIV.iwan-wrapper
 
 ! 博客园
 www.cnblogs.com##DIV#under_post_card1
