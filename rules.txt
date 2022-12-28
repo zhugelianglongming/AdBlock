@@ -62,6 +62,10 @@ blog.yufeng.info##DIV[id="paypal_donations-3"][class="widget widget_paypal_donat
 ! 三思数独
 www.12634.com##IMG[src="/static/img/zfb.jpeg"]
 
+! KrazyDad
+krazydad.com##DIV[class="pledgebox"]
+krazydad.com##DIV[class="row-fluid pledge-plea1"]
+
 ! 欧泊颗
 oubk.com##TABLE.pztbinfo
 oubk.com##IMG[src="https://img14.360buyimg.com/n1/jfs/t4567/65/1695518977/463513/f2ec8ecf/58e4959aN222a346a.jpg"]
