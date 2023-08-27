@@ -17,19 +17,25 @@ www.imooc.com##IMG[src="//img.mukewang.com/617b90aa0981e12e51200144.jpg"]
 qq.com##TXPDIV.txp_ad
 qq.com##TXPDIV[data-role="hd-ad-adapter-interactivelayer"]
 qq.com##A[dt-eid="ad_poster_sml"]
-qq.com##A[href="/channel/nba"]
-qq.com##A[href="/channel/ouguan"]
-qq.com##A[href="/channel/dejia"]
-qq.com##A[href="/channel/zhongchao"]
-qq.com##A[href="//v.qq.com/channel/nba"]
-qq.com##A[href="//v.qq.com/channel/ouguan"]
-qq.com##A[href="//v.qq.com/channel/world_cup"]
-qq.com##A[href="//v.qq.com/channel/dejia"]
 qq.com##A[href="https://v.qq.com/s/topic/v_sports/render/rAMD9X1m.html?from_wecom=1"]
 qq.com##A[href="https://gamer.qq.com/v2/qqlive?ichannel=txsppc0Ftxsp1"]
 qq.com##A[href="https://gamer.qq.com/v2/macwin?nav=1&ichannel=txsppc0Ftxsp1"]
 qq.com##A[href^="https://iwan.qq.com/game-community/game-center/home"]
+qq.com##A[href^="https://iwan.video.qq.com/game-community/game-center/home"]
 qq.com##A[href="https://iwan.qq.com/game-community/channel/recommend/"]
+!! 篮球
+qq.com##A[href="/channel/nba"]
+qq.com##A[href="//v.qq.com/channel/nba"]
+qq.com##A[href="https://v.qq.com/s/topic/v_sports/render/qVXf5Zx9.html"]
+!! 足球
+qq.com##A[href="/channel/ouguan"]
+qq.com##A[href="/channel/dejia"]
+qq.com##A[href="/channel/zhongchao"]
+qq.com##A[href="//v.qq.com/channel/ouguan"]
+qq.com##A[href="//v.qq.com/channel/world_cup"]
+qq.com##A[href="//v.qq.com/channel/dejia"]
+!! WWE
+qq.com##A[href="https://v.qq.com/s/topic/v_sports/render/cE4QHP4K.html"]
 !! 视频暂停广告
 qq.com##TXPDIV.txp_zt_content
 !! 视频卡片广告
