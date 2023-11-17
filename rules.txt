@@ -38,12 +38,15 @@ qq.com##A[href="//v.qq.com/channel/dejia"]
 qq.com##A[href="https://v.qq.com/s/topic/v_sports/render/cE4QHP4K.html"]
 !! 视频暂停广告
 qq.com##TXPDIV.txp_zt_content
+v.qq.com##TXPDIV[class="txp_full_screen_pause"]
 !! 视频卡片广告
 qq.com##DIV[class="card-wrap"][dt-eid="poster"][dt-imp-ignore="true"]
 !! 播放页游戏推荐广告
 qq.com##DIV.iwan-wrapper
 !! 侧边栏广告
 qq.com##DIV[id="iwan-gamependant-page"]
+v.qq.com##DIV[class="game_switch_page_next_wrapper game-switch-ad"]
+v.qq.com##DIV[dt-pgid="page_ecom_periphery_goods_pc"]
 
 ! 博客园
 www.cnblogs.com##DIV#under_post_card1
@@ -134,6 +137,7 @@ www.360doc.com##recommendArt
 ##DIV.stui-player__detail.detail>P
 ##DIV.stui-player.col-pd>p
 ##DIV#hengfu_pc_vod_shang
+com##DIV.ad-nav-box
 2k2k.net##DIV[class="foot foot_nav clearfix"]
 2k2k.net##UL[class="art_relates clearfix"]
 2k2k.net##DIV[id="fd_tips"][class="fodong_box"]
