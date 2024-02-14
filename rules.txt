@@ -85,6 +85,13 @@ blog.yufeng.info##DIV[id="paypal_donations-3"][class="widget widget_paypal_donat
 
 ! 三思数独
 www.12634.com##IMG[src="/static/img/zfb.jpeg"]
+!! 盘面下鼠标模式
+www.12634.com##DIV#game > DIV.row
+!! 简单题型：四宫/六宫
+www.12634.com#?#DIV.col-lg-3:-abp-has(A:-abp-contains(四宫))
+www.12634.com#?#DIV.col-lg-3:-abp-has(A:-abp-contains(六宫))
+!! 分享
+www.12634.com##DIV[class="alert alert-info"]
 
 ! KrazyDad
 krazydad.com##DIV[class="pledgebox"]
@@ -137,6 +144,7 @@ www.360doc.com##recommendArt
 ##DIV.stui-player__detail.detail>P
 ##DIV.stui-player.col-pd>p
 ##DIV#hengfu_pc_vod_shang
+##DIV.ut_ad_box
 com##DIV.ad-nav-box
 2k2k.net##DIV[class="foot foot_nav clearfix"]
 2k2k.net##UL[class="art_relates clearfix"]
